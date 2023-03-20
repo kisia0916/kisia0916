@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kisia0916) ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kisia0916)
-![trophy](https://github-profile-trophy.vercel.app/?username={kisia0916})](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kisia0916)](https://github.com/ryo-ma/github-profile-trophy)
