@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisia0916&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kisia0916&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisia0916)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisia0916&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kisia0916&theme=default)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kisia0916)](https://github.com/ryo-ma/github-profile-trophy)
